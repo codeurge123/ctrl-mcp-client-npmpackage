@@ -24,6 +24,6 @@ figlet("CTRL MCP CLIENT", (err, data) => {
     );
 
     console.log(
-        chalk.gray("  GitHub: https://github.com/YOUR_USERNAME/ctrl-mcp-client\n")
+        chalk.gray("  GitHub: https://github.com/codeurge123/ctrl-mcp-client-npmpackage\n")
     );
 });
